@@ -69,7 +69,7 @@ devclub-cadastro-usuario/
 └── package.json
 ```
 
-## 👩‍💻 Autora
+## 👩‍💻 Desenvolvedora
 
 Feito com 💜 por **Ingrid Alves de Farias**
 
@@ -78,5 +78,5 @@ Feito com 💜 por **Ingrid Alves de Farias**
 ---
 
 <p align="center">
-  Projeto desenvolvido durante os estudos no <a href="https://devclub.com.br/">DevClub</a> 🚀
+  Projeto desenvolvido durante os estudos no <a href="https://aulas.devclub.com.br/">DevClub</a> 🚀
 </p>
