@@ -1,16 +1,82 @@
-# React + Vite
+<h1 align="center">
+  📋 Cadastro de Usuário
+</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  Projeto desenvolvido durante o <strong>DevClub</strong> — formulário de cadastro de usuário com React e Vite.
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📌 Sobre o projeto
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Aplicação web de cadastro de usuário desenvolvida com **React** e **Vite**, criada como parte dos estudos no **DevClub**. O projeto consiste em um formulário funcional para registro de dados de usuário, praticando conceitos fundamentais de desenvolvimento frontend.
 
-## Expanding the ESLint configuration
+## ✨ Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Formulário de cadastro com campos de dados do usuário
+- Validação de campos
+- Interface responsiva
+
+## 🚀 Tecnologias utilizadas
+
+- [React](https://react.dev/) — biblioteca para construção de interfaces
+- [Vite](https://vitejs.dev/) — build tool rápida para projetos web
+- [ESLint](https://eslint.org/) — padronização e qualidade de código
+
+## 🛠️ Como rodar o projeto localmente
+
+Pré-requisitos: **Node.js** e **npm** ou **yarn** instalados.
+
+```bash
+# Clone o repositório
+git clone https://github.com/ingridalvesfarias/devclub-cadastro-usuario.git
+
+# Acesse a pasta do projeto
+cd devclub-cadastro-usuario
+
+# Instale as dependências
+npm install
+# ou
+yarn
+
+# Inicie o servidor de desenvolvimento
+npm run dev
+# ou
+yarn dev
+```
+
+Abra [http://localhost:5173](http://localhost:5173) no seu navegador.
+
+## 📁 Estrutura de pastas
+
+```
+devclub-cadastro-usuario/
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   └── main.jsx
+├── index.html
+├── vite.config.js
+└── package.json
+```
+
+## 👩‍💻 Autora
+
+Feito com 💜 por **Ingrid Alves Farias**
+
+[![GitHub](https://img.shields.io/badge/GitHub-ingridalvesfarias-181717?style=flat&logo=github)](https://github.com/ingridalvesfarias)
+
+---
+
+<p align="center">
+  Projeto desenvolvido durante os estudos no <a href="https://devclub.com.br/">DevClub</a> 🚀
+</p>
