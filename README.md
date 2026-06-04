@@ -71,7 +71,7 @@ devclub-cadastro-usuario/
 
 ## 👩‍💻 Autora
 
-Feito com 💜 por **Ingrid Alves Farias**
+Feito com 💜 por **Ingrid Alves de Farias**
 
 [![GitHub](https://img.shields.io/badge/GitHub-ingridalvesfarias-181717?style=flat&logo=github)](https://github.com/ingridalvesfarias)
 
